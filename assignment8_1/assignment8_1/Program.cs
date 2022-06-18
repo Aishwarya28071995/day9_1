@@ -8,7 +8,7 @@ namespace assignment8_1
         {
             EmployeeWage employeeWage = new EmployeeWage();
 
-            employeeWage.GetEmployeeWage();
+            employeeWage.GetEmployeeWage("reliance",20,100,20);
         }
     }
 }
