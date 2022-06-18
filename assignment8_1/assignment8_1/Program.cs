@@ -7,6 +7,7 @@ namespace assignment8_1
         static void Main(string[] args)
         {
             EmployeeWage.DisplayMessage();
+            EmployeeWage.GetAttendance();
         }
     }
 }
